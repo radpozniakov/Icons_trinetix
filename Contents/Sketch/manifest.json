@@ -1,0 +1,53 @@
+{
+  "author" : "Rad Poznyakov",
+  "commands" : [
+    {
+      "name": "Documentation",
+      "identifier" : "linkDocumentation",
+      "script" : "links.sketchscript",
+      "handler": "linkDocumentation"
+    },
+    {
+      "name": "Send new icons",
+      "identifier" : "senNewIcons",
+      "script" : "links.sketchscript",
+      "handler": "senNewIcons"
+    },
+    {
+      "script" : "add_grid.js",
+      "handler" : "handleFont",
+      "name" : "deloitte-icons",
+      "identifier" : "9_add_grid",
+      "shortcut": "cmd ctrl 1"
+    },
+    {
+      "script" : "add_grid.js",
+      "handler" : "handleFont",
+      "name" : "Deloitte_icon_font_v3",
+      "identifier" : "10_add_grid",
+      "shortcut": "cmd ctrl 3"
+    },
+    {
+      "script" : "add_grid.js",
+      "handler" : "handleFont",
+      "name" : "deloitte-special_font-v2",
+      "identifier" : "11_add_grid",
+      "shortcut": "cmd ctrl 2"
+    }
+  ],
+  "menu" : {
+    "title" : "😎 TRINETIX Icons",
+    "items" : [
+          "9_add_grid",
+          "10_add_grid",
+          "11_add_grid",
+      "-",
+          "linkDocumentation",
+          "senNewIcons"
+    ]
+  },
+  "version" : "0.0.1",
+  "description" : "Icons for Trinetix",
+  "name" : "😎 TRINETIX Icons",
+  "authorEmail" : "rad.poznyakov@trinetix.com"
+}

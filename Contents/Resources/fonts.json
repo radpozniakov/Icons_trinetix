@@ -1,0 +1,16 @@
+{
+  "fonts" : {
+    "deloitte-icons" : {
+      "path" : "deloitte-icons.json",
+      "container" : "<i class='deloitte-icons-*****'></i>"
+    },
+    "Deloitte_icon_font_v3" : {
+      "path" : "Deloitte_icon_font_v3.json",
+      "container" : "<i class='Deloitte_icon_font_v3-*****'></i>"
+    },
+    "deloitte-special_font-v2" : {
+      "path" : "deloitte-special_font-v2.json",
+      "container" : "<i class='deloitte-special_font-v2-*****'></i>"
+    }
+  }
+}

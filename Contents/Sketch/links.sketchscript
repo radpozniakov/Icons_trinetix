@@ -1,0 +1,12 @@
+function openURL(url){
+  var nsurl = NSURL.URLWithString(url);
+  NSWorkspace.sharedWorkspace().openURL(nsurl)
+}
+
+function linkDocumentation(){
+  openURL('https://github.com/radpoznyakov/Trinetix_Plugin');
+}
+
+function senNewIcons(){
+  openURL('mailto:rodion.pozniakov@trinetix.com');
+}
