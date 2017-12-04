@@ -29,5 +29,17 @@
             <pubDate>Wed, 12 Jul 2017 13:36:51 -0800</pubDate>
             <enclosure url="https://github.com/radpoznyakov/Icons_trinetix/raw/master/arch/Sketch.sketchplugin.zip?raw=true" sparkle:version="0.0.2" type="application/octet-stream" />
         </item>
+        <item>
+            <title>Version 0.0.4</title>
+            <description>
+                <![CDATA[
+                    <ul>
+                        <li>Add ability to rename root artboard of selected layer. Thanks @JBLatenight</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Wed, 12 Jul 2017 13:36:51 -0800</pubDate>
+            <enclosure url="https://github.com/radpoznyakov/Icons_trinetix/raw/master/arch/Sketch.sketchplugin.zip?raw=true" sparkle:version="0.0.2" type="application/octet-stream" />
+        </item>
     </channel>
 </rss>
